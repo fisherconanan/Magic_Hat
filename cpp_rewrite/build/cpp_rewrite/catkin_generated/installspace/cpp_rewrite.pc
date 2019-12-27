@@ -1,0 +1,8 @@
+prefix=/home/u2/fjc0004/cpp_rewrite/install
+
+Name: cpp_rewrite
+Description: Description of cpp_rewrite
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/u2/fjc0004/cpp_rewrite/install/lib 
+Requires: 
